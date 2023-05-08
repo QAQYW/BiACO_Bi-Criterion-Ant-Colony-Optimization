@@ -5,7 +5,7 @@ Bi-criterion Ant Colony Optimization algorithm.<br>
 双目标的蚁群算法，可求得Pareto解集。<br>
 用于一个TSP变种问题，有多种电量、时间窗等多种约束。<br>
 做了简单的可视化。<br>
-所有代码用Java写成，放置master下。<br>
+所有代码用Java写成，放在master下。<br>
 
 # 程序入口
 程序有几个不同入口，可自行选择，均位于main中<br>
